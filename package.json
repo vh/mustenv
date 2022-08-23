@@ -1,0 +1,21 @@
+{
+  "name": "mustenv",
+  "version": "1.0.0",
+  "description": "Returns the value of the environment variable if present, or exits the process otherwise",
+  "repository": "vh/mustenv",
+  "license": "MIT",
+  "author": "Vadim Homchik",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+		"index.js",
+		"index.d.ts"
+	],
+  "keywords": [
+    "env"
+  ]
+}
